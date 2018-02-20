@@ -6,6 +6,7 @@ import timeit
 import pandas as pd
 import sys
 from matplotlib import pyplot as plt
+np.seterr(divide='ignore', invalid='ignore')
 
 start = timeit.default_timer()
 
@@ -52,6 +53,18 @@ class BetaBandit(object):
         # Return the index of the sample with the largest value
         return sampled_theta.index( max(sampled_theta) )
 
+    def regret(self):
+        '''
+        Calculate expected regret, where expected regret is
+        maximum optimal reward - sum of collected rewards, i.e.
+        expected regret = T*max_k(mean_k) - sum_(t=1-->T) (reward_t)
+        Returns
+        -------
+        float
+        '''
+        return (sum(self.trials)*np.max(np.nan_to_num(self.successes/self.trials)) -
+                sum(self.successes)) / sum(self.trials)
+
 
 def boolean_select(self):
     # Create list of random feedback Theta values, based on the number of specified bandits
@@ -71,6 +84,7 @@ successes = zeros(shape=(N,num_bandits))
 beta_full_frame = []
 theta_full_frame = []
 choices = []
+regret_list =[]
 
 bb = BetaBandit()
 
@@ -82,6 +96,11 @@ for i in range(N):
     theta_full_frame.append(sampled_theta_frame)
     choice_and_event =[i, choice]
     choices.append(choice_and_event)
+    try:
+        regret=bb.regret()
+    except:
+        None
+    regret_list.append(regret)
     # Increment chosen arm for ith event... [i:choice]
     trials[i:choice] = trials[i:choice]+1
     conv = boolean_select(choice)
@@ -140,9 +159,19 @@ for k in range(num_bandits):
     plot(n, trials[:, k], label="Arm %d" % k)
 
 legend()
-title('Theoretical HBO Shows - Successes per Arm (%i Simulated Events)' % N)
+title('Simulated Consumer Choices - Successes per Arm (%i Simulated Events)' % N)
 xlabel("Number of trials")
 ylabel("Successes")
+
+legend()
+show()
+
+
+plot(n, regret_list, label="Bayesian Beta Bandit")
+legend()
+title('Regret: Fraction of payouts lost by using the sequence of pulls vs. the currently best known arm (%i Simulated Events)' % N)
+xlabel("Number of trials")
+ylabel("Regret")
 
 legend()
 show()
