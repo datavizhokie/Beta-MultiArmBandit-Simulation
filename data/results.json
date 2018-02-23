@@ -1,0 +1,3711 @@
+{
+  "data": {
+    "allMetricAggregations": [
+      {
+        "name": "Bitrate: iOS (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 121667,
+            "sum": 412.7858416190013,
+            "sumOfSquares": 1.5970839537079693
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 120414,
+            "sum": 409.46540987787495,
+            "sumOfSquares": 1.5858694221429872
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 118814,
+            "sum": 396.1252876192158,
+            "sumOfSquares": 1.5118325937254005
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 117657,
+            "sum": 392.3765098316107,
+            "sumOfSquares": 1.496977738626659
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 64143,
+            "sum": 223.37969817903164,
+            "sumOfSquares": 0.8614569546483297
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 65104,
+            "sum": 225.90717047790181,
+            "sumOfSquares": 0.8703876138603633
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 59969,
+            "sum": 206.8546471027814,
+            "sumOfSquares": 0.7926689576910028
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 60786,
+            "sum": 209.73994297627945,
+            "sumOfSquares": 0.8049556878422689
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 55291,
+            "sum": 190.31549933050857,
+            "sumOfSquares": 0.7350146594483835
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 54641,
+            "sum": 188.33015376190107,
+            "sumOfSquares": 0.7264418060470015
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 57351,
+            "sum": 200.16775664262846,
+            "sumOfSquares": 0.7804701210690451
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 56874,
+            "sum": 198.8273777655406,
+            "sumOfSquares": 0.7748025860885045
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 58470,
+            "sum": 200.29755544383414,
+            "sumOfSquares": 0.761169444495713
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 58968,
+            "sum": 201.66657666715216,
+            "sumOfSquares": 0.7669406932097526
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 63070,
+            "sum": 216.53463655465444,
+            "sumOfSquares": 0.8277108383969202
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 63671,
+            "sum": 217.95825619087645,
+            "sumOfSquares": 0.8469592717251598
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 60975,
+            "sum": 209.06238277411651,
+            "sumOfSquares": 0.7978819241247789
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 60389,
+            "sum": 207.81935831014349,
+            "sumOfSquares": 0.7946562809884542
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 57078,
+            "sum": 197.47136211442162,
+            "sumOfSquares": 0.7610834721607099
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 56587,
+            "sum": 195.8469744366747,
+            "sumOfSquares": 0.7547185556785351
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 29312,
+            "sum": 103.17026129136791,
+            "sumOfSquares": 0.40099577995764674
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Bitrate: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 29415,
+            "sum": 103.57174305260372,
+            "sumOfSquares": 0.4108355601326654
+          }
+        ]
+      },
+      {
+        "name": "Content Consumed: iOS (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 288993,
+            "sum": 7879948.126883339,
+            "sumOfSquares": 1058120027.3120867
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 287524,
+            "sum": 7800945.635833333,
+            "sumOfSquares": 1038020985.1600356
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 293668,
+            "sum": 7847638.359166668,
+            "sumOfSquares": 1086082753.7665663
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 291609,
+            "sum": 7835541.160883329,
+            "sumOfSquares": 1080859587.0703316
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 177310,
+            "sum": 5814703.05893333,
+            "sumOfSquares": 890817750.0738707
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 179535,
+            "sum": 5829215.115333333,
+            "sumOfSquares": 881741040.3671514
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 167313,
+            "sum": 5437610.8434500005,
+            "sumOfSquares": 835103019.4249533
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 168656,
+            "sum": 5447996.034349999,
+            "sumOfSquares": 834660075.9773372
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 165975,
+            "sum": 4966716.999316664,
+            "sumOfSquares": 778098127.2901963
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 165867,
+            "sum": 4968669.091983332,
+            "sumOfSquares": 783483768.1806952
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 177909,
+            "sum": 5444966.227583333,
+            "sumOfSquares": 876851320.5291768
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 176063,
+            "sum": 5429660.778866667,
+            "sumOfSquares": 883154889.0099748
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 170037,
+            "sum": 5641182.657199997,
+            "sumOfSquares": 877143473.5464963
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 170309,
+            "sum": 5613413.767650001,
+            "sumOfSquares": 863846274.0679704
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 176260,
+            "sum": 5809069.497749998,
+            "sumOfSquares": 867511701.0523285
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 176985,
+            "sum": 5807658.900633334,
+            "sumOfSquares": 849473367.3371629
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 166927,
+            "sum": 5433247.464416664,
+            "sumOfSquares": 797423485.9442152
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 166673,
+            "sum": 5429460.927450001,
+            "sumOfSquares": 803806216.1997639
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 197973,
+            "sum": 4977776.4616333395,
+            "sumOfSquares": 715674180.7915585
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 196692,
+            "sum": 4976790.63353333,
+            "sumOfSquares": 745133959.126174
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 52365,
+            "sum": 1913822.4962000009,
+            "sumOfSquares": 263343234.4389027
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content Consumed: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 52594,
+            "sum": 1903915.43365,
+            "sumOfSquares": 257621838.6024621
+          }
+        ]
+      },
+      {
+        "name": "Content consumed: iOS: Live TV (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 288986,
+            "sum": 6681291.75426667,
+            "sumOfSquares": 924140035.7295423
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 287514,
+            "sum": 6604432.755000001,
+            "sumOfSquares": 896639794.8357979
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 293516,
+            "sum": 6684289.816600001,
+            "sumOfSquares": 939588479.1550359
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 291437,
+            "sum": 6673335.6861999985,
+            "sumOfSquares": 932319681.6173627
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 177208,
+            "sum": 5016741.470433335,
+            "sumOfSquares": 786794833.6735249
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 179451,
+            "sum": 5028459.706183333,
+            "sumOfSquares": 777268622.2910057
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 167215,
+            "sum": 4690296.048666666,
+            "sumOfSquares": 736902026.5833844
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 168573,
+            "sum": 4687175.016183329,
+            "sumOfSquares": 732921117.607035
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 165904,
+            "sum": 4177798.650416665,
+            "sumOfSquares": 673350067.4411939
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 165779,
+            "sum": 4187708.1268499987,
+            "sumOfSquares": 680317961.9606813
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 177836,
+            "sum": 4654974.491033333,
+            "sumOfSquares": 771562181.1088496
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 175997,
+            "sum": 4621373.347750001,
+            "sumOfSquares": 760942080.4255651
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 169938,
+            "sum": 4859943.654783334,
+            "sumOfSquares": 775669547.262076
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 170223,
+            "sum": 4839572.634316668,
+            "sumOfSquares": 769129502.7372601
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 176189,
+            "sum": 5067977.315383333,
+            "sumOfSquares": 773319293.8911883
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 176914,
+            "sum": 5069966.061466664,
+            "sumOfSquares": 753665146.3078474
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 166838,
+            "sum": 4769733.807750001,
+            "sumOfSquares": 710648003.2916778
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 166574,
+            "sum": 4763976.330150005,
+            "sumOfSquares": 720534147.2674866
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 197870,
+            "sum": 4306928.203400002,
+            "sumOfSquares": 633491765.5240062
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 196609,
+            "sum": 4312231.198999999,
+            "sumOfSquares": 658223118.5930077
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 52297,
+            "sum": 1717419.727683333,
+            "sumOfSquares": 241063694.24508342
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Content consumed: iOS: Live TV (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 52500,
+            "sum": 1696762.7618666666,
+            "sumOfSquares": 233280030.177966
+          }
+        ]
+      },
+      {
+        "name": "Errors per visit: iOS (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 30621,
+            "sum": 44549,
+            "sumOfSquares": 648487
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 31036,
+            "sum": 43989,
+            "sumOfSquares": 677573
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 42595,
+            "sum": 62006,
+            "sumOfSquares": 667120
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 42814,
+            "sum": 61132,
+            "sumOfSquares": 479180
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 26643,
+            "sum": 37196,
+            "sumOfSquares": 374274
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 26568,
+            "sum": 37516,
+            "sumOfSquares": 395696
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 24953,
+            "sum": 34365,
+            "sumOfSquares": 309273
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 25399,
+            "sum": 35427,
+            "sumOfSquares": 365143
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 23530,
+            "sum": 32959,
+            "sumOfSquares": 414669
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 23745,
+            "sum": 32737,
+            "sumOfSquares": 248199
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 26330,
+            "sum": 37884,
+            "sumOfSquares": 456526
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 25606,
+            "sum": 36976,
+            "sumOfSquares": 419176
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 26529,
+            "sum": 37172,
+            "sumOfSquares": 237340
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 26421,
+            "sum": 38097,
+            "sumOfSquares": 569587
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 27737,
+            "sum": 39706,
+            "sumOfSquares": 498626
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 27661,
+            "sum": 38373,
+            "sumOfSquares": 407625
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 25444,
+            "sum": 38219,
+            "sumOfSquares": 521997
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 25632,
+            "sum": 36969,
+            "sumOfSquares": 254667
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 59241,
+            "sum": 97954,
+            "sumOfSquares": 766956
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 59117,
+            "sum": 97691,
+            "sumOfSquares": 843269
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 9374,
+            "sum": 12692,
+            "sumOfSquares": 97210
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Errors per visit: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 9487,
+            "sum": 12057,
+            "sumOfSquares": 48193
+          }
+        ]
+      },
+      {
+        "name": "Number_of_episodes_watched",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 153492,
+            "sum": 279933,
+            "sumOfSquares": 2475403
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 152817,
+            "sum": 273763,
+            "sumOfSquares": 2370551
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 149170,
+            "sum": 258204,
+            "sumOfSquares": 2319856
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 148028,
+            "sum": 255577,
+            "sumOfSquares": 2242993
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 77843,
+            "sum": 188270,
+            "sumOfSquares": 1996408
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 78823,
+            "sum": 189848,
+            "sumOfSquares": 2054822
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 72979,
+            "sum": 172522,
+            "sumOfSquares": 1820442
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 73864,
+            "sum": 173563,
+            "sumOfSquares": 1861133
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 68988,
+            "sum": 161617,
+            "sumOfSquares": 1774499
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 68443,
+            "sum": 160569,
+            "sumOfSquares": 1759929
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71720,
+            "sum": 176359,
+            "sumOfSquares": 1925393
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71116,
+            "sum": 174633,
+            "sumOfSquares": 1923713
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 71929,
+            "sum": 194751,
+            "sumOfSquares": 2212523
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 72304,
+            "sum": 194982,
+            "sumOfSquares": 2151976
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76315,
+            "sum": 197779,
+            "sumOfSquares": 2228943
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76660,
+            "sum": 197921,
+            "sumOfSquares": 2186683
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 73293,
+            "sum": 178888,
+            "sumOfSquares": 1965366
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 72764,
+            "sum": 176755,
+            "sumOfSquares": 1862721
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 73322,
+            "sum": 178845,
+            "sumOfSquares": 1953195
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 72617,
+            "sum": 178648,
+            "sumOfSquares": 1945828
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34402,
+            "sum": 53179,
+            "sumOfSquares": 352817
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Number_of_episodes_watched",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34518,
+            "sum": 54070,
+            "sumOfSquares": 367522
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: curatedFeatured (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 155840,
+            "sum": 18624,
+            "sumOfSquares": 18624
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 155083,
+            "sum": 18142,
+            "sumOfSquares": 18142
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 151361,
+            "sum": 17442,
+            "sumOfSquares": 17442
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 150156,
+            "sum": 17216,
+            "sumOfSquares": 17216
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 79316,
+            "sum": 10460,
+            "sumOfSquares": 10460
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 80327,
+            "sum": 10281,
+            "sumOfSquares": 10281
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 74510,
+            "sum": 10271,
+            "sumOfSquares": 10271
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 75339,
+            "sum": 10081,
+            "sumOfSquares": 10081
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 70698,
+            "sum": 11101,
+            "sumOfSquares": 11101
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 70164,
+            "sum": 11234,
+            "sumOfSquares": 11234
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 73425,
+            "sum": 11447,
+            "sumOfSquares": 11447
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 72872,
+            "sum": 11490,
+            "sumOfSquares": 11490
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 73532,
+            "sum": 10773,
+            "sumOfSquares": 10773
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 73849,
+            "sum": 10687,
+            "sumOfSquares": 10687
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 77680,
+            "sum": 9971,
+            "sumOfSquares": 9971
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 78087,
+            "sum": 10104,
+            "sumOfSquares": 10104
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 74684,
+            "sum": 9458,
+            "sumOfSquares": 9458
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 74095,
+            "sum": 9364,
+            "sumOfSquares": 9364
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 74880,
+            "sum": 10329,
+            "sumOfSquares": 10329
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 74159,
+            "sum": 10151,
+            "sumOfSquares": 10151
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34627,
+            "sum": 2455,
+            "sumOfSquares": 2455
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: curatedFeatured (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34798,
+            "sum": 2479,
+            "sumOfSquares": 2479
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: guide (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 165207,
+            "sum": 55346,
+            "sumOfSquares": 55346
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 164727,
+            "sum": 55499,
+            "sumOfSquares": 55499
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 160813,
+            "sum": 54134,
+            "sumOfSquares": 54134
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 159590,
+            "sum": 53740,
+            "sumOfSquares": 53740
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 84373,
+            "sum": 28518,
+            "sumOfSquares": 28518
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 85484,
+            "sum": 28939,
+            "sumOfSquares": 28939
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 79434,
+            "sum": 27369,
+            "sumOfSquares": 27369
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 80229,
+            "sum": 27211,
+            "sumOfSquares": 27211
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 76789,
+            "sum": 30598,
+            "sumOfSquares": 30598
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 76249,
+            "sum": 30738,
+            "sumOfSquares": 30738
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 80352,
+            "sum": 33478,
+            "sumOfSquares": 33478
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 79739,
+            "sum": 33318,
+            "sumOfSquares": 33318
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 78720,
+            "sum": 28249,
+            "sumOfSquares": 28249
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 79304,
+            "sum": 28703,
+            "sumOfSquares": 28703
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 82899,
+            "sum": 28464,
+            "sumOfSquares": 28464
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 83340,
+            "sum": 28787,
+            "sumOfSquares": 28787
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 79321,
+            "sum": 26053,
+            "sumOfSquares": 26053
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 78733,
+            "sum": 25890,
+            "sumOfSquares": 25890
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 79622,
+            "sum": 26837,
+            "sumOfSquares": 26837
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 78916,
+            "sum": 26555,
+            "sumOfSquares": 26555
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 35581,
+            "sum": 7204,
+            "sumOfSquares": 7204
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: guide (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 35717,
+            "sum": 7252,
+            "sumOfSquares": 7252
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: myLibrary (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 156049,
+            "sum": 25374,
+            "sumOfSquares": 25374
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 155278,
+            "sum": 25202,
+            "sumOfSquares": 25202
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 151604,
+            "sum": 24533,
+            "sumOfSquares": 24533
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 150479,
+            "sum": 24290,
+            "sumOfSquares": 24290
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 79168,
+            "sum": 10981,
+            "sumOfSquares": 10981
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 80132,
+            "sum": 10923,
+            "sumOfSquares": 10923
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 74218,
+            "sum": 10418,
+            "sumOfSquares": 10418
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 75149,
+            "sum": 10607,
+            "sumOfSquares": 10607
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 70359,
+            "sum": 10743,
+            "sumOfSquares": 10743
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 69867,
+            "sum": 10826,
+            "sumOfSquares": 10826
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 73274,
+            "sum": 11722,
+            "sumOfSquares": 11722
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 72710,
+            "sum": 11701,
+            "sumOfSquares": 11701
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 73308,
+            "sum": 10842,
+            "sumOfSquares": 10842
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 73640,
+            "sum": 10848,
+            "sumOfSquares": 10848
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 77654,
+            "sum": 10803,
+            "sumOfSquares": 10803
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 77949,
+            "sum": 10798,
+            "sumOfSquares": 10798
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 74500,
+            "sum": 10042,
+            "sumOfSquares": 10042
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 73948,
+            "sum": 9845,
+            "sumOfSquares": 9845
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 75048,
+            "sum": 13169,
+            "sumOfSquares": 13169
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 74312,
+            "sum": 13092,
+            "sumOfSquares": 13092
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34633,
+            "sum": 2955,
+            "sumOfSquares": 2955
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: myLibrary (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34771,
+            "sum": 2931,
+            "sumOfSquares": 2931
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: productPage (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 165935,
+            "sum": 73850,
+            "sumOfSquares": 73850
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 164991,
+            "sum": 73206,
+            "sumOfSquares": 73206
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 160760,
+            "sum": 68844,
+            "sumOfSquares": 68844
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 159492,
+            "sum": 68248,
+            "sumOfSquares": 68248
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 85273,
+            "sum": 37244,
+            "sumOfSquares": 37244
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 86386,
+            "sum": 37539,
+            "sumOfSquares": 37539
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 80385,
+            "sum": 35556,
+            "sumOfSquares": 35556
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 81323,
+            "sum": 35803,
+            "sumOfSquares": 35803
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 77680,
+            "sum": 38029,
+            "sumOfSquares": 38029
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 77238,
+            "sum": 38445,
+            "sumOfSquares": 38445
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 80884,
+            "sum": 40332,
+            "sumOfSquares": 40332
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 80301,
+            "sum": 40365,
+            "sumOfSquares": 40365
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 79876,
+            "sum": 36706,
+            "sumOfSquares": 36706
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 80454,
+            "sum": 36920,
+            "sumOfSquares": 36920
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 83496,
+            "sum": 36000,
+            "sumOfSquares": 36000
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 84117,
+            "sum": 36427,
+            "sumOfSquares": 36427
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 80051,
+            "sum": 33463,
+            "sumOfSquares": 33463
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 79523,
+            "sum": 33419,
+            "sumOfSquares": 33419
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 80023,
+            "sum": 33256,
+            "sumOfSquares": 33256
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 79187,
+            "sum": 33000,
+            "sumOfSquares": 33000
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 35622,
+            "sum": 9371,
+            "sumOfSquares": 9371
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: productPage (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 35754,
+            "sum": 9409,
+            "sumOfSquares": 9409
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: search (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 155270,
+            "sum": 23443,
+            "sumOfSquares": 23443
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 154522,
+            "sum": 23204,
+            "sumOfSquares": 23204
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 150727,
+            "sum": 22163,
+            "sumOfSquares": 22163
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 149638,
+            "sum": 21927,
+            "sumOfSquares": 21927
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 78742,
+            "sum": 10759,
+            "sumOfSquares": 10759
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 79729,
+            "sum": 11036,
+            "sumOfSquares": 11036
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 73877,
+            "sum": 10331,
+            "sumOfSquares": 10331
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 74854,
+            "sum": 10735,
+            "sumOfSquares": 10735
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 70065,
+            "sum": 11411,
+            "sumOfSquares": 11411
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 69625,
+            "sum": 11545,
+            "sumOfSquares": 11545
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 72840,
+            "sum": 12028,
+            "sumOfSquares": 12028
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 72347,
+            "sum": 11943,
+            "sumOfSquares": 11943
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 72844,
+            "sum": 10602,
+            "sumOfSquares": 10602
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 73304,
+            "sum": 10803,
+            "sumOfSquares": 10803
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 77219,
+            "sum": 10435,
+            "sumOfSquares": 10435
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 77601,
+            "sum": 10647,
+            "sumOfSquares": 10647
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 74068,
+            "sum": 9704,
+            "sumOfSquares": 9704
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 73540,
+            "sum": 9499,
+            "sumOfSquares": 9499
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 74184,
+            "sum": 10100,
+            "sumOfSquares": 10100
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 73447,
+            "sum": 10005,
+            "sumOfSquares": 10005
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34509,
+            "sum": 2583,
+            "sumOfSquares": 2583
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: search (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34631,
+            "sum": 2548,
+            "sumOfSquares": 2548
+          }
+        ]
+      },
+      {
+        "name": "Page views: iOS: settings (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 154186,
+            "sum": 3558,
+            "sumOfSquares": 3558
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 153529,
+            "sum": 3675,
+            "sumOfSquares": 3675
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 149889,
+            "sum": 3484,
+            "sumOfSquares": 3484
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 148638,
+            "sum": 3288,
+            "sumOfSquares": 3288
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 78054,
+            "sum": 1199,
+            "sumOfSquares": 1199
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 79015,
+            "sum": 1123,
+            "sumOfSquares": 1123
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 73185,
+            "sum": 1198,
+            "sumOfSquares": 1198
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 74011,
+            "sum": 1061,
+            "sumOfSquares": 1061
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 69216,
+            "sum": 1205,
+            "sumOfSquares": 1205
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 68649,
+            "sum": 1159,
+            "sumOfSquares": 1159
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71981,
+            "sum": 1344,
+            "sumOfSquares": 1344
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71385,
+            "sum": 1360,
+            "sumOfSquares": 1360
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 72122,
+            "sum": 1171,
+            "sumOfSquares": 1171
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 72530,
+            "sum": 1212,
+            "sumOfSquares": 1212
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76529,
+            "sum": 1134,
+            "sumOfSquares": 1134
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76858,
+            "sum": 1083,
+            "sumOfSquares": 1083
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 73501,
+            "sum": 1048,
+            "sumOfSquares": 1048
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 72948,
+            "sum": 1038,
+            "sumOfSquares": 1038
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 73561,
+            "sum": 1314,
+            "sumOfSquares": 1314
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 72883,
+            "sum": 1310,
+            "sumOfSquares": 1310
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34447,
+            "sum": 288,
+            "sumOfSquares": 288
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Page views: iOS: settings (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34555,
+            "sum": 292,
+            "sumOfSquares": 292
+          }
+        ]
+      },
+      {
+        "name": "Streams per visit: iOS (unique ID count)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 210175,
+            "sum": 190433,
+            "sumOfSquares": 190433
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 211982,
+            "sum": 192300,
+            "sumOfSquares": 192300
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 219301,
+            "sum": 197166,
+            "sumOfSquares": 197166
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 216999,
+            "sum": 195150,
+            "sumOfSquares": 195150
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 133022,
+            "sum": 119653,
+            "sumOfSquares": 119653
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 134747,
+            "sum": 121096,
+            "sumOfSquares": 121096
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 125846,
+            "sum": 112678,
+            "sumOfSquares": 112678
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 125184,
+            "sum": 111961,
+            "sumOfSquares": 111961
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 119112,
+            "sum": 105415,
+            "sumOfSquares": 105415
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 119746,
+            "sum": 105950,
+            "sumOfSquares": 105950
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 128496,
+            "sum": 114236,
+            "sumOfSquares": 114236
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 126814,
+            "sum": 112858,
+            "sumOfSquares": 112858
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 124207,
+            "sum": 111004,
+            "sumOfSquares": 111004
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 124875,
+            "sum": 111710,
+            "sumOfSquares": 111710
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 133500,
+            "sum": 120019,
+            "sumOfSquares": 120019
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 134743,
+            "sum": 121308,
+            "sumOfSquares": 121308
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 127817,
+            "sum": 115171,
+            "sumOfSquares": 115171
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 126775,
+            "sum": 114278,
+            "sumOfSquares": 114278
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 121607,
+            "sum": 105520,
+            "sumOfSquares": 105520
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 122573,
+            "sum": 106054,
+            "sumOfSquares": 106054
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 42115,
+            "sum": 38043,
+            "sumOfSquares": 38043
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Streams per visit: iOS (unique ID count)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 42058,
+            "sum": 38057,
+            "sumOfSquares": 38057
+          }
+        ]
+      },
+      {
+        "name": "Time: iOS: In app (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 537344,
+            "sum": 26247940.590916626,
+            "sumOfSquares": 12555334989.774658
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 541310,
+            "sum": 26755595.07711639,
+            "sumOfSquares": 13586214505.558516
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 552154,
+            "sum": 29414004.43828276,
+            "sumOfSquares": 16511742605.221745
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 547759,
+            "sum": 29067755.297616735,
+            "sumOfSquares": 15191328245.6591
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 335684,
+            "sum": 21678871.147633057,
+            "sumOfSquares": 13146373955.717676
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 340032,
+            "sum": 21526465.32110004,
+            "sumOfSquares": 12395694524.311918
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 318892,
+            "sum": 20195531.40718334,
+            "sumOfSquares": 11549860780.584785
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 316339,
+            "sum": 20070999.13556651,
+            "sumOfSquares": 11944226553.850744
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 309162,
+            "sum": 18411521.2769999,
+            "sumOfSquares": 10240028740.350376
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 309846,
+            "sum": 18663800.25371621,
+            "sumOfSquares": 11156412612.488039
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 330622,
+            "sum": 19414474.34045004,
+            "sumOfSquares": 10564900679.056118
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 327028,
+            "sum": 19305071.558799952,
+            "sumOfSquares": 10170584017.098145
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 318709,
+            "sum": 19983134.766166463,
+            "sumOfSquares": 10764166445.388027
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 319469,
+            "sum": 20117339.37864986,
+            "sumOfSquares": 11494361804.342943
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 333037,
+            "sum": 20785773.0025664,
+            "sumOfSquares": 11867427778.001362
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 335261,
+            "sum": 20998827.620283615,
+            "sumOfSquares": 12266660741.853464
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 317254,
+            "sum": 19952299.74569919,
+            "sumOfSquares": 11476112418.93141
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 316081,
+            "sum": 19518747.981549565,
+            "sumOfSquares": 10282335125.704338
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 339876,
+            "sum": 19018171.928183444,
+            "sumOfSquares": 10896403470.403843
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 342460,
+            "sum": 18998970.06986693,
+            "sumOfSquares": 10377245037.898731
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 101186,
+            "sum": 7999626.80831669,
+            "sumOfSquares": 4060657330.1298447
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Time: iOS: In app (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 100880,
+            "sum": 8270111.048316652,
+            "sumOfSquares": 4661612985.17652
+          }
+        ]
+      },
+      {
+        "name": "Traffic Split",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 754,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 792,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 753,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 772,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 689,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 712,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 724,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 764,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 809,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 786,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 795,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 795,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 774,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 815,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 745,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 739,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 731,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 727,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 737,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 782,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 572,
+            "sum": null,
+            "sumOfSquares": null
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Traffic Split",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 593,
+            "sum": null,
+            "sumOfSquares": null
+          }
+        ]
+      },
+      {
+        "name": "Visits per day: iOS (avg)",
+        "rawAggregationEntries": [
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 153492,
+            "sum": 541310,
+            "sumOfSquares": 3286938
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-13T00:00:00Z"
+            },
+            "count": 152817,
+            "sum": 537344,
+            "sumOfSquares": 3266082
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 149170,
+            "sum": 552154,
+            "sumOfSquares": 3567834
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-14T00:00:00Z"
+            },
+            "count": 148028,
+            "sum": 547759,
+            "sumOfSquares": 3538713
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 77843,
+            "sum": 335684,
+            "sumOfSquares": 2467186
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-15T00:00:00Z"
+            },
+            "count": 78823,
+            "sum": 340032,
+            "sumOfSquares": 2494236
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 72979,
+            "sum": 316339,
+            "sumOfSquares": 2365367
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-16T00:00:00Z"
+            },
+            "count": 73864,
+            "sum": 318892,
+            "sumOfSquares": 2351840
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 68988,
+            "sum": 309846,
+            "sumOfSquares": 2413442
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-17T00:00:00Z"
+            },
+            "count": 68443,
+            "sum": 309162,
+            "sumOfSquares": 2428664
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71720,
+            "sum": 330622,
+            "sumOfSquares": 2675586
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-18T00:00:00Z"
+            },
+            "count": 71116,
+            "sum": 327028,
+            "sumOfSquares": 2598996
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 71929,
+            "sum": 318709,
+            "sumOfSquares": 2466823
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-19T00:00:00Z"
+            },
+            "count": 72304,
+            "sum": 319469,
+            "sumOfSquares": 2441595
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76315,
+            "sum": 333037,
+            "sumOfSquares": 2496837
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-20T00:00:00Z"
+            },
+            "count": 76660,
+            "sum": 335261,
+            "sumOfSquares": 2504637
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 73293,
+            "sum": 317254,
+            "sumOfSquares": 2347996
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-21T00:00:00Z"
+            },
+            "count": 72764,
+            "sum": 316081,
+            "sumOfSquares": 2351645
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 73322,
+            "sum": 342460,
+            "sumOfSquares": 2829686
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-22T00:00:00Z"
+            },
+            "count": 72617,
+            "sum": 339876,
+            "sumOfSquares": 2834698
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee285",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34402,
+            "sum": 100880,
+            "sumOfSquares": 418956
+          },
+          {
+            "aggregationIdentifier": {
+              "metric": "Visits per day: iOS (avg)",
+              "variantUuid": "5a6b67cf8626ad003dbee286",
+              "by": "DAY",
+              "for": "2018-02-23T00:00:00Z"
+            },
+            "count": 34518,
+            "sum": 101186,
+            "sumOfSquares": 432070
+          }
+        ]
+      }
+    ]
+  }
+}
