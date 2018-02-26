@@ -13,7 +13,7 @@ start = timeit.default_timer()
 #### Simulation Parameters ###
 # Number of Bandits supported 3, 4, 5, and 6
 num_bandits = 3
-N = 50
+N = 1000
 ##############################
 
 class BetaBandit(object):
@@ -39,6 +39,9 @@ class BetaBandit(object):
             #Construct beta distribution for posterior
             a = self.prior[0] + self.successes[i]
             b = self.prior[1]+ self.trials[i] - self.successes[i]
+
+
+
             dist = beta(self.prior[0] + self.successes[i],
                         self.prior[1]+ self.trials[i] - self.successes[i])
 
@@ -101,6 +104,36 @@ for i in range(N):
     bb.add_result(choice, conv)
     trials[i] = bb.trials
     successes[i] = bb.successes
+
+
+# Define the beta distribution parameters to be plotted
+beta_final = beta_full_frame[-1]
+print(beta_final)
+alpha_values = beta_final['a'].values.tolist()
+beta_values = beta_final['b'].values.tolist()
+Arm = beta_final['Arm'].values.tolist()
+linestyles = ['-', '--', ':', '-.']
+x = np.linspace(0, 1, 1002)[1:-1]
+
+#------------------------------------------------------------
+# plot the final distributions
+fig, ax = plt.subplots(figsize=(5, 3.75))
+
+for a, b, ls, arm_ in zip(alpha_values, beta_values, linestyles, Arm):
+    dist = beta(a, b)
+
+    plt.plot(x, dist.pdf(x), ls=ls, c='black',
+             label=r' Arm=%.0f, $\alpha=%.1f,\ \beta=%.1f$' % (arm_, a, b))
+
+plt.xlim(0, 1)
+
+plt.xlabel('$x$')
+plt.ylabel(r'$p(x|\alpha,\beta)$')
+plt.title('Final Beta Distributions')
+
+plt.legend(loc=0)
+plt.show()
+
 
 theta_temp= pd.concat(theta_full_frame, axis=0)
 theta_df = pd.DataFrame(theta_temp)
