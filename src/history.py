@@ -5,3 +5,5 @@ class History:
         pass
     def add_allocation(self):
         pass
+    def plot_regret(self):
+        pass

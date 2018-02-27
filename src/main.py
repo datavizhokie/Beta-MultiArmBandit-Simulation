@@ -23,6 +23,7 @@ algorithms = {
     for bandit in config.get_bandits()
 }
 
+#TODO: Use the history object
 for day in dates:
     allocations = create_allocations(config)
     for bandit in config.get_bandits():
