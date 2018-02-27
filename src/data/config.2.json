@@ -1,0 +1,30 @@
+{
+  "data": {
+    "experiments": [
+      {
+        "uuid": "e1",
+        "name": "experiment 1",
+        "variants": [
+          {
+            "uuid": "v1",
+            "name": "variant 1"
+          },
+          {
+            "uuid": "v2",
+            "name": "variant 2"
+          }
+        ],
+        "combinedMetrics": [
+          {
+            "name": "m1",
+            "label": "metric 1"
+          },
+          {
+            "name": "m2",
+            "label": "metric 2"
+          }
+        ]
+      }
+    ]
+  }
+}
