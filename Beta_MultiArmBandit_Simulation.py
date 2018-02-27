@@ -12,8 +12,8 @@ start = timeit.default_timer()
 
 #### Simulation Parameters ###
 # Number of Bandits supported 3, 4, 5, and 6
-num_bandits = 4
-N = 5000
+num_bandits = 3
+N = 1000
 ##############################
 
 class BetaBandit(object):
@@ -39,6 +39,9 @@ class BetaBandit(object):
             #Construct beta distribution for posterior
             a = self.prior[0] + self.successes[i]
             b = self.prior[1]+ self.trials[i] - self.successes[i]
+
+
+
             dist = beta(self.prior[0] + self.successes[i],
                         self.prior[1]+ self.trials[i] - self.successes[i])
 
@@ -58,9 +61,6 @@ class BetaBandit(object):
         Calculate expected regret, where expected regret is
         maximum optimal reward - sum of collected rewards, i.e.
         expected regret = T*max_k(mean_k) - sum_(t=1-->T) (reward_t)
-        Returns
-        -------
-        float
         '''
         return (sum(self.trials)*np.max(np.nan_to_num(self.successes/self.trials)) -
                 sum(self.successes)) / sum(self.trials)
@@ -76,7 +76,6 @@ def boolean_select(self):
         return True
     else:
         return False
-
 
 
 trials = zeros(shape=(N,num_bandits))
@@ -96,17 +95,45 @@ for i in range(N):
     theta_full_frame.append(sampled_theta_frame)
     choice_and_event =[i, choice]
     choices.append(choice_and_event)
-    try:
-        regret=bb.regret()
-    except:
-        None
+    regret=bb.regret()
     regret_list.append(regret)
     # Increment chosen arm for ith event... [i:choice]
     trials[i:choice] = trials[i:choice]+1
+    # Randomly assign if a consumer chooses the recommended content
     conv = boolean_select(choice)
     bb.add_result(choice, conv)
     trials[i] = bb.trials
     successes[i] = bb.successes
+
+
+# Define the beta distribution parameters to be plotted
+beta_final = beta_full_frame[-1]
+print(beta_final)
+alpha_values = beta_final['a'].values.tolist()
+beta_values = beta_final['b'].values.tolist()
+Arm = beta_final['Arm'].values.tolist()
+linestyles = ['-', '--', ':', '-.']
+x = np.linspace(0, 1, 1002)[1:-1]
+
+#------------------------------------------------------------
+# plot the final distributions
+fig, ax = plt.subplots(figsize=(5, 3.75))
+
+for a, b, ls, arm_ in zip(alpha_values, beta_values, linestyles, Arm):
+    dist = beta(a, b)
+
+    plt.plot(x, dist.pdf(x), ls=ls, c='black',
+             label=r' Arm=%.0f, $\alpha=%.1f,\ \beta=%.1f$' % (arm_, a, b))
+
+plt.xlim(0, 1)
+
+plt.xlabel('$x$')
+plt.ylabel(r'$p(x|\alpha,\beta)$')
+plt.title('Final Beta Distributions')
+
+plt.legend(loc=0)
+plt.show()
+
 
 theta_temp= pd.concat(theta_full_frame, axis=0)
 theta_df = pd.DataFrame(theta_temp)
@@ -129,6 +156,9 @@ elif num_bandits == 6:
     trials_df = pd.DataFrame(trials, columns =['Arm0','Arm1','Arm2','Arm3','Arm4','Arm5'])
 
 trials_df['Event'] = trials_df.index
+
+# ADD ALLOCATION OF EACH ARM TO TOTAL NUMBER OF ARMS  - inidividual trial count/sum(trial counts)
+
 choice_df = pd.DataFrame(choices, columns=['Event','Choice'])
 
 beta_temp= pd.concat(beta_full_frame, axis=0)
@@ -159,9 +189,21 @@ for k in range(num_bandits):
     plot(n, trials[:, k], label="Arm %d" % k)
 
 legend()
-title('Simulated Consumer Choices - Successes per Arm (%i Simulated Events)' % N)
-xlabel("Number of trials")
-ylabel("Successes")
+title('Simulated Allocations per Arm (%i Simulated Events)' % N)
+xlabel("Number of Events")
+ylabel("Allocations")
+
+legend()
+show()
+
+
+for k in range(num_bandits):
+    plot(n, successes[:, k], label="Arm %d" % k)
+
+legend()
+title('Simulated Consumer Choices - Choices per Arm (%i Simulated Events)' % N)
+xlabel("Number of Events")
+ylabel("Succeses")
 
 legend()
 show()
